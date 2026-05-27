@@ -31,6 +31,20 @@
             "victory": false,
             "elapsed_s": 120.0
           }
+        },
+        {
+          "game_id": "catch_flux",
+          "player_name": "test",
+          "score": 0.0,
+          "data_id": "Wat_Norm_Cortex",
+          "timestamp": "2026-05-26T23:42:19.503430+00:00",
+          "machine": "u919",
+          "metadata": {
+            "n_columns": 301,
+            "n_steps": 1830,
+            "victory": false,
+            "elapsed_s": 120.0
+          }
         }
       ]
     }
