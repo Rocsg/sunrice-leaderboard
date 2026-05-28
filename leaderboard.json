@@ -75,6 +75,23 @@
           }
         }
       ]
+    },
+    "safari_photo": {
+      "label": "Safari Photo",
+      "score_type": "points_desc",
+      "scores": [
+        {
+          "game_id": "safari_photo",
+          "player_name": "test",
+          "score": 5.0,
+          "data_id": "Wat_Norm_Cortex",
+          "timestamp": "2026-05-28T20:47:07.294569+00:00",
+          "machine": "u919",
+          "metadata": {
+            "victory": true
+          }
+        }
+      ]
     }
   }
 }
