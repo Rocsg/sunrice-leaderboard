@@ -101,6 +101,17 @@
           "metadata": {
             "victory": true
           }
+        },
+        {
+          "game_id": "safari_photo",
+          "player_name": "test",
+          "score": 3.0,
+          "data_id": "Wat_Norm_Cortex",
+          "timestamp": "2026-05-28T21:12:35.010832+00:00",
+          "machine": "u919",
+          "metadata": {
+            "victory": true
+          }
         }
       ]
     }
