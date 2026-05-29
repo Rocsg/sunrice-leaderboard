@@ -123,6 +123,17 @@
           "metadata": {
             "victory": true
           }
+        },
+        {
+          "game_id": "safari_photo",
+          "player_name": "test",
+          "score": 4.0,
+          "data_id": "Wat_Norm_Cortex",
+          "timestamp": "2026-05-29T21:32:07.433584+00:00",
+          "machine": "u919",
+          "metadata": {
+            "victory": true
+          }
         }
       ]
     }
